@@ -46,7 +46,7 @@ export default function Home() {
   <a href="https://zenn.dev/${user}/scraps">
     <img src="https://zenn-badge.herokuapp.com/s/${user}/scraps?style=${style}" alt="${user} scraps" />
   </a>`);
-  }, [user]);
+  }, [user, style]);
 
   const handleChange = (event) => {
     if (inputChecker)
