@@ -81,6 +81,8 @@ export default function Home() {
         <meta property="og:description" content="GitHub Profile に載せるための Zenn の各種スコアバッジを作成するためのウェブサービス" />
         <meta property="og:site_name" content="Zenn.badge" />
         <meta property="og:image" content="https://zenn-badge.vercel.app/ogp_image.png" />
+        <meta name="twitter:site" content="@n1kaera" />
+        <meta name="twitter:card" content="summary_large_image" />
       </Head>
 
       <main className={styles.main}>
