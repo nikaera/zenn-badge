@@ -41,3 +41,7 @@
 * 100%の動作を保証するものではありません
 * APIの利用数制限などにより、表示されない事があります
 * GitHub Profile にご利用ください
+
+## ライセンス
+
+[MIT](https://github.com/nikaera/zenn-badge/blob/master/LICENSE)
