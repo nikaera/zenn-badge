@@ -24,27 +24,27 @@ export default function Home() {
   useEffect(() => {
     setBadgeCode(`  <!-- Like のバッジ -->
   <a href="https://zenn.dev/${user}">
-    <img src="https://zenn-badge.herokuapp.com/s/${user}/likes?style=${style}" alt="${user} likes" />
+    <img src="https://zenn.badge.nikaera.com/s/${user}/likes?style=${style}" alt="${user} likes" />
   </a>
 
   <!-- Articles のバッジ -->
   <a href="https://zenn.dev/${user}/articles">
-    <img src="https://zenn-badge.herokuapp.com/s/${user}/articles?style=${style}" alt="${user} articles" />
+    <img src="https://zenn.badge.nikaera.com/s/${user}/articles?style=${style}" alt="${user} articles" />
   </a>
 
   <!-- Followers のバッジ -->
   <a href="https://zenn.dev/${user}/followers">
-    <img src="https://zenn-badge.herokuapp.com/s/${user}/followers?style=${style}" alt="${user} followers" />
+    <img src="https://zenn.badge.nikaera.com/s/${user}/followers?style=${style}" alt="${user} followers" />
   </a>
 
   <!-- Books のバッジ -->
   <a href="https://zenn.dev/${user}/books">
-    <img src="https://zenn-badge.herokuapp.com/s/${user}/books?style=${style}" alt="${user} books" />
+    <img src="https://zenn.badge.nikaera.com/s/${user}/books?style=${style}" alt="${user} books" />
   </a>
 
   <!-- Scraps のバッジ -->
   <a href="https://zenn.dev/${user}/scraps">
-    <img src="https://zenn-badge.herokuapp.com/s/${user}/scraps?style=${style}" alt="${user} scraps" />
+    <img src="https://zenn.badge.nikaera.com/s/${user}/scraps?style=${style}" alt="${user} scraps" />
   </a>`);
   }, [user, style]);
 
@@ -123,27 +123,27 @@ export default function Home() {
           <h3>プレビュー &rarr;</h3>
           <h4>Likes 👍</h4>
           <a href={`https://zenn.dev/${previewUser}`}>
-            <img src={`https://zenn-badge.herokuapp.com/s/${previewUser}/likes?style=${style}`} alt={`${previewUser} likes`} />
+            <img src={`https://zenn.badge.nikaera.com/s/${previewUser}/likes?style=${style}`} alt={`${previewUser} likes`} />
           </a>
 
           <h4>Articles 📝</h4>
           <a href={`https://zenn.dev/${previewUser}/articles`}>
-            <img src={`https://zenn-badge.herokuapp.com/s/${previewUser}/articles?style=${style}`} alt={`${previewUser} articles`} />
+            <img src={`https://zenn.badge.nikaera.com/s/${previewUser}/articles?style=${style}`} alt={`${previewUser} articles`} />
           </a>
 
           <h4>Followers 👱</h4>
           <a href={`https://zenn.dev/${previewUser}/followers`}>
-            <img src={`https://zenn-badge.herokuapp.com/s/${previewUser}/followers?style=${style}`} alt={`${previewUser} followers`} />
+            <img src={`https://zenn.badge.nikaera.com/s/${previewUser}/followers?style=${style}`} alt={`${previewUser} followers`} />
           </a>
 
           <h4>Books 📚</h4>
           <a href={`https://zenn.dev/${previewUser}/books`}>
-            <img src={`https://zenn-badge.herokuapp.com/s/${previewUser}/books?style=${style}`} alt={`${previewUser} books`} />
+            <img src={`https://zenn.badge.nikaera.com/s/${previewUser}/books?style=${style}`} alt={`${previewUser} books`} />
           </a>
 
           <h4>Scraps 🗑️</h4>
           <a href={`https://zenn.dev/${previewUser}/scraps`}>
-            <img src={`https://zenn-badge.herokuapp.com/s/${previewUser}/scraps?style=${style}`} alt={`${previewUser} scraps`} />
+            <img src={`https://zenn.badge.nikaera.com/s/${previewUser}/scraps?style=${style}`} alt={`${previewUser} scraps`} />
           </a>
 
           <h3>問い合わせ &rarr;</h3>
