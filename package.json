@@ -11,5 +11,8 @@
     "node-fetch": ">=3.3.2",
     "highlight.js": "^11.11.1",
     "next": "15.1.7"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
