@@ -9,27 +9,27 @@
 ```html
 <!-- Like のバッジ -->
 <a href="https://zenn.dev/nikaera">
-  <img src="https://zenn-badge.herokuapp.com/s/nikaera/likes?style=plastic" alt="nikaera likes" />
+  <img src="https://zenn.badge.nikaera.com/s/nikaera/likes?style=flat" alt="nikaera likes" />
 </a>
 
 <!-- Articles のバッジ -->
 <a href="https://zenn.dev/nikaera/articles">
-  <img src="https://zenn-badge.herokuapp.com/s/nikaera/articles?style=plastic" alt="nikaera articles" />
+  <img src="https://zenn.badge.nikaera.com/s/nikaera/articles?style=flat" alt="nikaera articles" />
 </a>
 
 <!-- Followers のバッジ -->
 <a href="https://zenn.dev/nikaera/followers">
-  <img src="https://zenn-badge.herokuapp.com/s/nikaera/followers?style=plastic" alt="nikaera followers" />
+  <img src="https://zenn.badge.nikaera.com/s/nikaera/followers?style=flat" alt="nikaera followers" />
 </a>
 
 <!-- Books のバッジ -->
 <a href="https://zenn.dev/nikaera/books">
-  <img src="https://zenn-badge.herokuapp.com/s/nikaera/books?style=plastic" alt="nikaera books" />
+  <img src="https://zenn.badge.nikaera.com/s/nikaera/books?style=flat" alt="nikaera books" />
 </a>
 
 <!-- Scraps のバッジ -->
 <a href="https://zenn.dev/nikaera/scraps">
-  <img src="https://zenn-badge.herokuapp.com/s/nikaera/scraps?style=plastic" alt="nikaera scraps" />
+  <img src="https://zenn.badge.nikaera.com/s/nikaera/scraps?style=flat" alt="nikaera scraps" />
 </a>
 ```
 
